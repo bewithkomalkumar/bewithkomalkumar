@@ -2,7 +2,7 @@
 <img src ="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif"  align="right" width="300" height="300" />
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Komal Kumar </h1>
 
-<h3><samp><strong>You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h3> 
+<h2><samp><strong>You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h2> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 <img src="https://keepswimmin.files.wordpress.com/2016/02/1595816q6swytfwle.gif?w=396" width="300px" height="70px">
