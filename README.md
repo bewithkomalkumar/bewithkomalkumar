@@ -6,16 +6,15 @@
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 
-<h2>&nbsp; &nbsp; About ME
-<p>&nbsp;**************</p></h2>
+<h1>About ME
+<p>***********</p></h1>
 
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-- 👯 I’m looking to collaborate on **Ecommerce website**
-- 🤔 I’m looking for help with **Web Development**
-- 💬 Ask me about **React, I'm happy to help**
-- 📫 How to reach me: **er.kumarkomal@gmail.com**
-- ⚡ Fun fact:**I Love to talk about "How Universe Works"**
+<p>🌱 I’m currently learning <b>Full Stack Web Development</b></p>
+<p>👯 I’m looking to collaborate on <b>Ecommerce website</b></p>
+<p>🤔 I’m looking for help with <b>Web Development</b></p>
+<p>💬 Ask me about <b>React, I'm happy to help</b></p>
+<p>📫 How to reach me: <b>er.kumarkomal@gmail.com</b></p>
+<p>⚡ Fun fact<b>I Love to talk about "How Universe Works"</b></p>
 <hr width="80%"}>
 <h2><i>Connect with me<i> 🔗</h2>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
