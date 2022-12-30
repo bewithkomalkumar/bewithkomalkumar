@@ -5,7 +5,10 @@
 <h2><samp><strong>You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h2> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
-<img src="https://keepswimmin.files.wordpress.com/2016/02/1595816q6swytfwle.gif?w=396" width="300px" height="70px">
+
+<h2>&nbsp; &nbsp; About ME
+<p>&nbsp;**************</p></h2>
+
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **Ecommerce website**
