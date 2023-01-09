@@ -98,7 +98,7 @@
   
 <br><br>
   <h2>Github Stats</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bewithkomalkumar&show_icons=true&locale=en" alt="bewithkomalkumar" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bewithkomalkumar&show_icons=true&locale=en" alt="bewithkomalkumar" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bewithkomalkumar&" alt="bewithkomalkumar" /></p>
 
