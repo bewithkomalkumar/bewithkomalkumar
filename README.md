@@ -102,5 +102,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bewithkomalkumar&show_icons=true&locale=en" alt="bewithkomalkumar" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bewithkomalkumar&" alt="bewithkomalkumar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bewithkomalkumar&langs_count=8)" alt="most used language"/ width="50%" height="300" ></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bewithkomalkumar&label=Profile%20views&color=0e75b6&style=flat" alt="bewithkomalkumar" /> </p>
