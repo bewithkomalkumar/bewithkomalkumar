@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://komalkumar.netlify.app](https://komalkumar.netlify.app)
 
-- 💬 Ask me about **React,JavaScript I'm happy to help**
+- 💬 Ask me about **React, JavaScript I'm happy to help**
 
 - 📫 How to reach me **er.kumarkomal@gmail.com**
 
