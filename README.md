@@ -55,6 +55,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="70" width="80"/> </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   
+ 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="80"/> </a> 
+     &nbsp;&nbsp;&nbsp;&nbsp;
+    
+    
+    
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="80"/> </a>
+     &nbsp;&nbsp;&nbsp;&nbsp;
+    
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="80" /> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    
+    
+
+    
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="70" width="80"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
   
@@ -67,9 +84,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="70" width="80"/> </a> 
    &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <br>
-    <br>
-    <br>
+
     
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="70" width="80"/> </a> 
