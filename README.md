@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **er.kumarkomal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ttr20mTIo3l9Hg8pmOVa7OgJNne_H3Ud/view?usp=sharing]([https://drive.google.com/file/d/1hEovfM-y0Hc9Z6vIugEJboa73wE-8i6L/view](https://drive.google.com/file/d/1ttr20mTIo3l9Hg8pmOVa7OgJNne_H3Ud/view?usp=sharing))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1hEovfM-y0Hc9Z6vIugEJboa73wE-8i6L/view](https://drive.google.com/file/d/1ttr20mTIo3l9Hg8pmOVa7OgJNne_H3Ud/view?usp=sharing))
 
 - ⚡ Fun fact **I Love to talk about "How Universe Works"**
 <br><br>
